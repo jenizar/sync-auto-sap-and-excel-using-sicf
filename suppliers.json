@@ -1,0 +1,30 @@
+[
+  {
+    "MANDT": "001",
+    "ID": 1,
+    "NAME": "EASTERN VICTORY",
+    "CITY": "LOS ANGELES",
+    "COUNTRY": "USA"
+  },
+  {
+    "MANDT": "001",
+    "ID": 2,
+    "NAME": "NIRAMA MUTUAL LINES",
+    "CITY": "PERTH",
+    "COUNTRY": "AUSTRALIA"
+  },
+  {
+    "MANDT": "001",
+    "ID": 3,
+    "NAME": "C-MILE MINING",
+    "CITY": "PADANG",
+    "COUNTRY": "INDONESIA"
+  },
+  {
+    "MANDT": "001",
+    "ID": 4,
+    "NAME": "NEPTUNE CHEMICAL",
+    "CITY": "CHENGDU",
+    "COUNTRY": "CHINA"
+  }
+]
